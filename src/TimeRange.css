@@ -1,0 +1,15 @@
+.timeRange-container{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    position: relative;
+    top:15px;
+}
+
+.time-elapsed{
+    margin-left: 10px;
+}
+
+.duration{
+    margin-right: 10px;
+}

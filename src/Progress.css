@@ -1,0 +1,20 @@
+.progress-bar{
+    height: 6px;
+    margin: 0px 10px;
+    background-color: rgba(0, 0 , 0, 0.4);
+    position: relative;
+    top:10px;
+    border-radius: 10px;
+}
+
+.progress{
+    height: 100%;
+    width: 0%;
+    background-color: rgba(0, 0 , 0, 1);
+    border-radius: 10px;
+}
+
+.progress-bar:hover{
+    transform: scaleY(1.2);
+    cursor: pointer;
+}
