@@ -8,8 +8,12 @@
 
 .time-elapsed{
     margin-left: 10px;
+    color: #d3d7da;
+    font-size: 18px;
 }
 
 .duration{
     margin-right: 10px;
+    color: #d3d7da;
+    font-size: 18px;
 }

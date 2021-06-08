@@ -5,14 +5,17 @@
     align-items: center;
     height: 30px;
     position: relative;
-    top:20px;
+    top:50px;
 }
 
-.fas{
-   color: rgb(179, 175, 175);
-   cursor: pointer;
+button{
+  background: transparent;
+  border: none;
+  outline: none;
+  color: #d3d7da;
+  cursor: pointer;
 }
 
-.fas:hover{
-  color: rgb(121, 117, 117);
+button:hover{
+  color: white;
 }
